@@ -1,0 +1,1 @@
+The module allows user to construct a recruitment system in an efficient way, which includes jobs and candidates management
